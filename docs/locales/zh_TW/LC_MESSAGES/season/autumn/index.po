@@ -1,0 +1,67 @@
+# Translations template for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-05-21 11:42+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/season/autumn/index.md:1 43629c5cbfa64a0d8d14cf3532800afb
+msgid "autumn"
+msgstr ""
+
+#: ../../source/season/autumn/index.md:2 1b68a814226d479da4fded48e691f204
+msgid "========"
+msgstr ""
+
+#: ../../source/season/autumn/index.md:4 eb8b4524e12e4cb6828f2c7cac0e2e58
+msgid "this is autumn file"
+msgstr ""
+
+#: ../../source/season/autumn/index.md:6 b506b32fae614abe9ef3cdcb9e925fdd
+msgid "Secondary title"
+msgstr ""
+
+#: ../../source/season/autumn/index.md:9 727c8ab2b0104fc2abe0334ae4441a24
+msgid "Third-level title"
+msgstr ""
+
+#: ../../source/season/autumn/index.md:12 c70f5d06791d48a981a5742af83af3a5
+msgid "This is a**paragraph**"
+msgstr ""
+
+#: ../../source/season/autumn/index.md 6abe2748df454efa8075b03a101efe36
+msgid "first column"
+msgstr ""
+
+#: ../../source/season/autumn/index.md d5f26d04affa4e9693801e866dcdacab
+msgid "second col"
+msgstr ""
+
+#: ../../source/season/autumn/index.md b318e4a6f8d548b0854b17a8cf96019d
+msgid "third col"
+msgstr ""
+
+#: ../../source/season/autumn/index.md 5cb68c715b634333a5e2376417bb7765
+msgid "a"
+msgstr ""
+
+#: ../../source/season/autumn/index.md 777fd792470b412f835fad3df7fc9dd2
+msgid "b"
+msgstr ""
+
+#: ../../source/season/autumn/index.md 7680a62c6b9342279f3633dc9e79c7e1
+msgid "c"
+msgstr ""
+

@@ -1,16 +1,16 @@
-# 秋
+# autumn
 ========
 
 this is autumn file
 
-## 二级标题
+## Secondary title
 
 
-### 三级标题
+### Third-level title
 
 
-这是一个**段落**
+This is a**paragraph**
 
-| 第一列 | 第二列 | 第三列 |
-| :--: | :--: | :--: |
-|   a  |   b  |   c  |
+| first column | second col | third col |
+|:------------:|:----------:|:---------:|
+|      a       |     b      |     c     |
